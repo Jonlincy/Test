@@ -23,4 +23,8 @@ return [
     ],
 
     // 其他更多的模块定义
+    'this' => [
+        'change' => 'MODIFY',
+        'A' => 'b'
+    ]
 ];
